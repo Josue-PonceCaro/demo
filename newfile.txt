@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-
-=======
 # THE NEW FILE
 NEW START
 OF BRANCHES
->>>>>>> 50a488a (new start)
+
