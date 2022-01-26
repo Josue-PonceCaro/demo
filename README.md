@@ -1,12 +1,8 @@
 # THIS IS A SECOND README FILE
-Hello second readme file
-
-
 
 # HEADING 2
-Just some text
 
 # THIS IS A EW BRANCH
-CHANGIN TO THE ORIGINAL BRANCHss
 
-HELLO / THIS IS NEW BRANCH
+Only one
+
