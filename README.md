@@ -1,10 +1,8 @@
 # THIS IS A SECOND README FILE
-
+Hello second readme //HELLO// file
 
 # HEADING 2
+Hello local repo
 
 # THIS IS A EW BRANCH
 CHANGIN TO THE ORIGINAL BRANCHss
-
-TO GENERATE A CONFLICT
-
