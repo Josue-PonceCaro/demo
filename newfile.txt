@@ -1,3 +1,12 @@
 # THE NEW FILE
 This is a new file
+
+Esting the file frome  local branch
+
+andding some extras
+
+hello world
+
+doing more changes
+abd more 1111
 EDITIN FILE FROM THE GLOBAL EXAMPLE BRANCH
